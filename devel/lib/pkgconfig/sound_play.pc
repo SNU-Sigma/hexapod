@@ -1,0 +1,8 @@
+prefix=/home/donghoonpark/hexapod_ws/devel
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.2.7
+Cflags: -I/home/donghoonpark/hexapod_ws/devel/include -I/home/donghoonpark/hexapod_ws/src/audio_common/sound_play/include
+Libs: -L/home/donghoonpark/hexapod_ws/devel/lib 
+Requires: message_runtime actionlib_msgs

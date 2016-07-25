@@ -1,0 +1,8 @@
+prefix=/home/donghoonpark/hexapod_ws/devel
+
+Name: hexapod_sound
+Description: Description of hexapod_sound
+Version: 0.2.0
+Cflags: -I/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_sound/include
+Libs: -L/home/donghoonpark/hexapod_ws/devel/lib -lhexapod_sound
+Requires: nodelet roscpp sound_play hexapod_msgs

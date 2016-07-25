@@ -1,0 +1,2 @@
+set(hexapod_msgs_MESSAGE_FILES "/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/LegJoints.msg;/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/LegsJoints.msg;/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/FeetPositions.msg;/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/Pose.msg;/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/RPY.msg;/home/donghoonpark/hexapod_ws/src/hexapod_ros/hexapod_msgs/msg/Sounds.msg")
+set(hexapod_msgs_SERVICE_FILES "")

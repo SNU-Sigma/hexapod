@@ -1,0 +1,2 @@
+audio_common/audio_common:audio_common/audio_common_msgs:audio_common/sound_play:hexapod_ros/dynamixel_sdk:hexapod_ros/hexapod:hexapod_ros/hexapod_bringup:hexapod_ros/hexapod_controller:hexapod_ros/hexapod_description:hexapod_ros/hexapod_gazebo:hexapod_ros/hexapod_msgs:hexapod_ros/hexapod_navigation:hexapod_ros/hexapod_sound:hexapod_ros/hexapod_teleop_joystick
+-DCATKIN_DEVEL_PREFIX=/home/donghoonpark/hexapod_ws/devel -DCMAKE_INSTALL_PREFIX=/home/donghoonpark/hexapod_ws/install -G Unix Makefiles

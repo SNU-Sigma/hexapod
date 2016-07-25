@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/donghoonpark/hexapod_ws/src/hexapod_ros/dynamixel_sdk/include/dxl_hal.h
+
+/home/donghoonpark/hexapod_ws/src/hexapod_ros/dynamixel_sdk/include/dynamixel.h
+
+/home/donghoonpark/hexapod_ws/src/hexapod_ros/dynamixel_sdk/src/dynamixel.cpp
+dxl_hal.h
+-
+dynamixel.h
+-
+
